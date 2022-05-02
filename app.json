@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "appCeetDiorges",
+    "slug": "appCeetDiorges",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
